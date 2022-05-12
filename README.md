@@ -1,4 +1,4 @@
-# APT-assignment2
+# Qwirkle Board Game
 
 # Authors:
 Antigony Haikalis
