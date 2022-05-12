@@ -1,0 +1,43 @@
+  ___           _      _    _      
+ / _ \__      _(_)_ __| | _| | ___ 
+| | | \ \ /\ / / | '__| |/ / |/ _ \
+| |_| |\ V  V /| | |  |   <| |  __/
+ \__\_\ \_/\_/ |_|_|  |_|\_\_|\___|
+
+Welcome to Quirkle!
+-------------------
+*** NOTE: If at any stage you get stuck, type 'help'. Enjoy! ***
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+5. Toggle [31mC[m[91mO[m[33mL[m[32mO[m[34mU[m[35mR[m on (off by default)
+6. Display High Scores
+Select a number as displayed...
+Type 1 and press enter if you wish to start a new game
+Type 2 and press enter if you wish to load a previously saved game
+Type 3 and press enter if you wish to view the credits
+Type 4 and press enter if you wish to quit the game
+Type 5 and press enter if you wish to turn Colour on for tiles
+Type 6 and press enter if you want to view the current highscores
+
+  ___           _      _    _      
+ / _ \__      _(_)_ __| | _| | ___ 
+| | | \ \ /\ / / | '__| |/ / |/ _ \
+| |_| |\ V  V /| | |  |   <| |  __/
+ \__\_\ \_/\_/ |_|_|  |_|\_\_|\___|
+
+Welcome to Quirkle!
+-------------------
+*** NOTE: If at any stage you get stuck, type 'help'. Enjoy! ***
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+5. Toggle [31mC[m[91mO[m[33mL[m[32mO[m[34mU[m[35mR[m on (off by default)
+6. Display High Scores
+Goodbye

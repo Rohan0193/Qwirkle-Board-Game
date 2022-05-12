@@ -1,0 +1,22 @@
+Welcome to Quirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+
+Starting a New Game
+
+Enter a name for Player 1:
+Player1: A
+Enter a name for Player 2:
+Player2: B
+Let's Play!
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+
+Goodbye
